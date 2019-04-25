@@ -25,11 +25,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/teng.wang.o/SwiftFDKit'
+  s.homepage         = 'https://github.com/wangteng6680/SwiftFD.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'teng.wang.o' => 'teng.wang.o@nio.com' }
-  s.source           = { :git => 'https://github.com/teng.wang.o/SwiftFDKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/wangteng6680/SwiftFD.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

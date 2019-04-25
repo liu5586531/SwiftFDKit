@@ -1,7 +1,9 @@
 use_frameworks!
 
 target 'SwiftFDKit_Example' do
-  pod 'SwiftFDKit', :path => '../'
+
+
+  pod 'SwiftFDKit', :path => '../', :commit => 'ae9bada6eefd7786dee81b57a088bec6f1deff7a'
 
   target 'SwiftFDKit_Tests' do
     inherit! :search_paths
