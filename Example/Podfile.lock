@@ -1,0 +1,16 @@
+PODS:
+  - SwiftFDKit (0.0.1)
+
+DEPENDENCIES:
+  - SwiftFDKit (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftFDKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftFDKit: 8febecc93385ec4a3be70185ef5dbee99d4c69a2
+
+PODFILE CHECKSUM: 739514d142074bc47501bc0e08c8dc075f01aaa6
+
+COCOAPODS: 1.6.1
